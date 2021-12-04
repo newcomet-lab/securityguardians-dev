@@ -107,7 +107,7 @@ const Home = () => {
           <div className="flex justify-center md:mx-20 items-center flex-1 space-y-3">
             <img
               className="rounded-md shadow-lg"
-              src={`/mds.gif`}
+              src={`/securityguardians.gif`}
               height={300}
               width={300}
               alt="NFT Image" />
